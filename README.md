@@ -19,7 +19,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🎮 Roco Kingdom CLI](https://github.com/johnnywang-byte/roco-kingdom-cli) | A console-based RPG game built to practice **Object-Oriented Programming** and modular Java design. | Java, OOP |
+| [🎮 Roco Kingdom CLI](https://github.com/johnnywang-byte/RocoKingdom) | A console-based RPG game built to practice **Object-Oriented Programming** and modular Java design. | Java, OOP |
 | [📘 Student Management System](#) | A CRUD system built with JDBC and MySQL to manage students, courses, and grades. | Java, JDBC, MySQL |
 | [💬 Message Board](#) | Web app implementing user posting and storage using **Servlet & Tomcat**. | Java, Servlet, HTML/CSS |
 | [👥 User Management System](#) | RESTful backend for user authentication and management. | Spring Boot, MyBatis Plus |
