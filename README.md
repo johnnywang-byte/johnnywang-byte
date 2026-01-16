@@ -19,7 +19,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [🎓 York Academic Portal (YAP)](https://github.com/johnnywang-byte/Project2026) | A full-stack university management system featuring **AI-powered assistance (Gemini)**, role-based access control (RBAC), and data visualization. | Spring Boot, Vue.js 3, MySQL, AI |
+| [🎓 York Academic Portal (YAP)](https://github.com/johnnywang-byte/York-Academic-Portal) | A full-stack university management system featuring **AI-powered assistance (Gemini)**, role-based access control (RBAC), and data visualization. | Spring Boot, Vue.js 3, MySQL, AI |
 | [🎮 Roco Kingdom CLI](https://github.com/johnnywang-byte/RocoKingdom) | A console-based RPG game built to practice **Object-Oriented Programming** and modular Java design. | Java, OOP |
 
 ---
