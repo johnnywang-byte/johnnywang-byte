@@ -26,6 +26,14 @@
 
 ---
 
+### 🏅 Certifications
+
+<img src="claude-certified-architect.jpg" alt="Anthropic Claude Certified Architect" width="480"/>
+
+> **Claude Certified Architect** — Anthropic Foundations · Valid May 2026 – Nov 2026 · [Verify](https://verify.skilljar.com/c/x3aebm3spqga)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnywang-byte&show_icons=true&theme=tokyonight)
